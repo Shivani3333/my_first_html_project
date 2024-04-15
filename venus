@@ -38,7 +38,7 @@
       <div class="row align-items-center">
         <div class="col-lg-6">
           <h1>Your Awesome Landing Page</h1>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris placerat eleifend leo eget tincidunt. Integer tempus fermentum tellus sit amet eleifend.</p>
+          <p>This is made by Shivani</p>
           <a href="#" class="btn btn-primary">Get Started</a>
         </div>
         <div class="col-lg-6">
@@ -56,21 +56,21 @@
           <div class="icon-box">
             <i class="fas fa-cogs"></i>
             <h3>Easy to Customize</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris placerat eleifend leo eget tincidunt.</p>
+            <p>This webpage is easy to Customize .</p>
           </div>
         </div>
         <div class="col-lg-4">
           <div class="icon-box">
             <i class="fas fa-mobile-alt"></i>
             <h3>Fully Responsive</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris placerat eleifend leo eget tincidunt.</p>
+            <p>This webpage is fully Responsive.</p>
           </div>
         </div>
         <div class="col-lg-4">
           <div class="icon-box">
             <i class="fas fa-rocket"></i>
             <h3>Fast Loading</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris placerat eleifend leo eget tincidunt.</p>
+            <p>This webpage loads fast</p>
           </div>
         </div>
       </div>
@@ -86,7 +86,7 @@
           <div class="card">
             <div class="card-body">
               <h3>Starter</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p>We have different plans to start with.Hope you like any one of them!</p>
               <h4>$19<span>/month</span></h4>
               <a href="#" class="btn btn-primary">Choose Plan</a>
             </div>
@@ -96,7 +96,7 @@
           <div class="card">
             <div class="card-body">
               <h3>Pro</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p>This plan gives you features of a pro.</p>
               <h4>$39<span>/month</span></h4>
               <a href="#" class="btn btn-primary">Choose Plan</a>
             </div>
@@ -106,7 +106,7 @@
           <div class="card">
             <div class="card-body">
               <h3>Premium</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <p>This plan has excess to everything . Whatever we have in this website</p>
               <h4>$59<span>/month</span></h4>
               <a href="#" class="btn btn-primary">Choose Plan</a>
             </div>
@@ -139,17 +139,17 @@
           <div class="info-box">
             <i class="fas fa-map-marker-alt"></i>
             <h3>Location</h3>
-            <p>123 Street, City, Country</p>
+            <p>IIT Patna,Bihta,Patna,INDIA</p>
           </div>
           <div class="info-box">
             <i class="fas fa-envelope"></i>
             <h3>Email</h3>
-            <p>info@example.com</p>
+            <p>shivani123@gmail.com</p>
           </div>
           <div class="info-box">
             <i class="fas fa-phone"></i>
             <h3>Call Us</h3>
-            <p>+123 456 789</p>
+            <p>999****486</p>
           </div>
         </div>
       </div>
@@ -159,7 +159,7 @@
   <!-- Footer -->
   <footer class="footer">
     <div class="container">
-      <p>&copy; 2024 Venus Landing Page. All rights reserved.</p>
+      <p>&copy; 2024 Venus Landing Page. All rights reserved to Shivani Pvt Ltd.</p>
     </div>
   </footer>
 
